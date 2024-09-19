@@ -5,8 +5,7 @@
 
 
 
-#⚙️Ferramentas utilizadas 
-
- - Html 
- - css 
- -Javascript
+# ⚙️Ferramentas utilizadas 
+- Html 
+- css 
+-Javascript
