@@ -8,4 +8,4 @@
 # ⚙️Ferramentas utilizadas 
 - Html 
 - css 
--Javascript
+- Javascript
