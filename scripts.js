@@ -21,7 +21,7 @@ const currency = document.getElementById("currency")
 // Obtendo os elementos do formulario
  const form = document.querySelector("form")
 
-// Capturando o envento de submit do formulário
+// Capturando o evento de submit do formulário
  form.onsubmit = (e) => {
     e.preventDefault() 
 
