@@ -7,7 +7,7 @@ amount.addEventListener("input", ()=> {
 
     const hasCaracteresRegex = /\D+/g  
 
-    // Atribiu um novo valor a amount.valeu que só vai receber numeros
+    // Atribiu um novo valor a amount.value que só vai receber numeros
     amount.value = amount.value.replace(hasCaracteresRegex , "")
 
 })
